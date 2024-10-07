@@ -1,4 +1,4 @@
-![Business Systems](https://github.com/user-attachments/assets/3dbbfd4a-c259-45d6-9c06-07b5e8a95ddd)
+![Business Systems](https://github.com/user-attachments/assets/e7340744-5e65-4011-b357-e2d0e0f32848)
 
 > Plan, manage and simulate qualifying business system development and purchases.
 
